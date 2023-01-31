@@ -32,11 +32,11 @@ Here are some ideas to get you started:
 
 
 <h2>Estadísticas</h2>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=martalopeez&show_icons=true&theme=dracula&locale=es&layout=compact" alt="martalopeez" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=JOHNNY-22&show_icons=true&theme=dracula&locale=es&layout=compact" alt="JOHNNY-22" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=martalopeez&show_icons=true&theme=dracula&locale=es" alt="martalopeez" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=JOHNNY-22&show_icons=true&theme=dracula&locale=es" alt="JOHNNY-22" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=martalopeez&theme=dark" alt="martalopeez" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JOHNNY-22&theme=dark" alt="JOHNNY-22" /></p>
 
 
 
