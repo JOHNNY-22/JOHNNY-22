@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1>Estudiante de ingeniería informática</h1>
 <p>🌱 En proceso de aprendizaje de Delphi, CSS y Angular </p> 
 <p>⚡ Datos curiosos: Me gusta la escalada, y el desarollo web </p>
-<p>💬 Pregúntame sobre: HTML, NEXT.JS, C#, TypeScript</p>
+<p>💬 Pregúntame sobre: HTML, NEXT.JS, C#, TypeScript, Delphi</p>
 
 <h2>Lenguajes y herramientas</h2> 
 <p align="left"> 
