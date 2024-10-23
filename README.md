@@ -21,8 +21,9 @@ Here are some ideas to get you started:
 <p>⚡ Datos curiosos: Me gusta la escalada, y el desarollo aplicaciones escritorio </p>
 <p>💬 Pregúntame sobre: HTML, NEXT.JS, C#, TypeScript, Delphi, SSMS, MySQL</p>
 <p>📫 Contacta conmigo: johnny.altes1@gmail.com</p>
-<p>Proyectos en los que he trabajado</p>
-<p>TFG KiloYmedio: https://github.com/Potitos-Labs</p>
+
+<h2>Proyectos en los que he trabajado</h2>
+<p>KiloYmedio: https://github.com/Potitos-Labs</p>
 <p>HomePlanner: https://github.com/TFGHomePlanner</p>
 
 <h2>Lenguajes y herramientas</h2> 
