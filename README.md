@@ -16,9 +16,12 @@ Here are some ideas to get you started:
 -->
 <h1>Estudiante de ingeniería informática</h1>
 <p> 🔭 Actulmente trabajando en Rover Grupo </p>
-<p>🌱 En proceso de aprendizaje de Delphi, CSS y Angular </p> 
+<p>🌱 Programador de Delphi y C# </p> 
+<p>Trabajando en la migración de aplicaciones, y programacion de nuevas funcionalidades </p>
 <p>⚡ Datos curiosos: Me gusta la escalada, y el desarollo aplicaciones escritorio </p>
-<p>💬 Pregúntame sobre: HTML, NEXT.JS, C#, TypeScript, Delphi</p>
+<p>💬 Pregúntame sobre: HTML, NEXT.JS, C#, TypeScript, Delphi, SSMS, MySQL</p>
+<p>📫 Contacta conmigo: johnny.altes1@gmail.com</p>
+
 
 <h2>Lenguajes y herramientas</h2> 
 <p align="left"> 
